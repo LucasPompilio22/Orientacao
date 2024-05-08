@@ -9,7 +9,7 @@ Virtual Studio Code
 
   
 
-Executar no prompt do cmd - pip install flask 
+Executar prompt do cmd - pip install flask 
 
   
 Regiao norte = id 1 - 		 http://localhost:5000/regioes/1 
